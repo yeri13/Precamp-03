@@ -1,0 +1,104 @@
+Math.random()
+0.34681117856996635
+Math.random()
+0.309285940043603
+Math.random()
+0.127801920902872
+Math.random()
+0.07788401675314782
+Math.random()
+0.6471720444580746
+Math.random()
+0.6969000120688296
+Math.random() * 1000000
+828884.3352144355
+Math.random() * 1000000
+698.1373084780084
+Math.random() * 1000000
+276899.8830551963
+Math.random() * 1000000
+387573.85591271153
+Math.random() * 1000000
+383023.6531051061
+Math.floor(Math.random() * 1000000)
+434022
+Math.floor(Math.random() * 1000000)
+737630
+Math.floor(Math.random() * 1000000)
+424316
+Math.floor(Math.random() * 1000000)
+188953
+Math.floor(Math.random() * 1000000)
+601118
+Math.floor(Math.random() * 1000000)
+531650
+Math.floor(Math.random() * 1000000)
+400128
+Math.floor(Math.random() * 1000000)
+83658
+Math.floor(Math.random() * 1000000)
+682083
+Math.floor(Math.random() * 1000000)
+41145
+Math.floor(Math.random() * 1000000)
+27450
+Math.floor(Math.random() * 1000000)
+530173
+String(Math.floor(Math.random() * 1000000))
+"626658"
+String(Math.floor(Math.random() * 1000000))
+"133611"
+String(Math.floor(Math.random() * 1000000))
+"479441"
+String(Math.floor(Math.random() * 1000000))
+"807787"
+String(Math.floor(Math.random() * 1000000))
+"25446"
+String(Math.floor(Math.random() * 1000000))
+"630985"
+String(Math.floor(Math.random() * 1000000))
+"103221"
+String(Math.floor(Math.random() * 1000000))
+"990978"
+String(Math.floor(Math.random() * 1000000))
+"270869"
+String(Math.floor(Math.random() * 1000000))
+"434137"
+String(Math.floor(Math.random() * 1000000))
+"173285"
+String(Math.floor(Math.random() * 1000000))
+"60143"
+String(Math.floor(Math.random() * 1000000))
+"884317"
+String(Math.floor(Math.random() * 1000000))
+"576825"
+String(Math.floor(Math.random() * 1000000))
+"799194"
+String(Math.floor(Math.random() * 1000000))
+"276065"
+String(Math.floor(Math.random() * 1000000))
+"766290"
+Math.floor(Math.random() * 1000000)
+101651
+String(Math.floor(Math.random() * 1000000))
+"870603"
+String(Math.floor(Math.random() * 1000000))
+"93133"
+String(Math.floor(Math.random() * 1000000))
+"594511"
+String(Math.floor(Math.random() * 1000000))
+"899327"
+String(Math.floor(Math.random() * 1000000))
+"773590"
+String(Math.floor(Math.random() * 1000000))
+"429886"
+String(Math.floor(Math.random() * 1000000))
+"641555"
+String(Math.floor(Math.random() * 1000000))
+"916922"
+String(Math.floor(Math.random() * 1000000))
+"540985"
+String(Math.floor(Math.random() * 1000000))
+"836602"
+String(Math.floor(Math.random() * 1000000))
+"6088"
